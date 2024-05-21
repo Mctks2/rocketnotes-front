@@ -6,7 +6,7 @@ Adicional: Pode ser utilizado com projeto API-Explorer10(Back-end).
 
 ## 🛠️ Tecnologias utilizadas
 - HTML
-- CSS (Styled-components)
+- CSS-in-JS (Styled-components)
 - React
 - React Router
 - React Icons
